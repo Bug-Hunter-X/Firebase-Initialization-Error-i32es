@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the app is not properly initialized or if there is a network issue. This can be tricky to debug since the error messages are not always clear.
